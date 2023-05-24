@@ -1,0 +1,17 @@
+{
+  "name": "courses_work",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "RudVladyslav",
+  "license": "ISC",
+  "dependencies": {
+    "asmcrypto.js": "^2.3.2",
+    "nodemon": "^2.0.22"
+  }
+}
